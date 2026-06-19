@@ -1,0 +1,7 @@
+sms
+sms.exe
+*.out
+students.dat
+.DS_Store
+Thumbs.db
+.vscode/
